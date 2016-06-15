@@ -1,0 +1,29 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\George\Desktop\George's Folder\Unity Projects\Domino Tracks\Builds\DominoTracks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\George\Desktop\George's Folder\Unity Projects\Domino Tracks\Builds\DominoTracks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Desktop\George's Folder\Unity Projects\Domino Tracks\Builds\DominoTracks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\George\Desktop\George's Folder\Unity Projects\Domino Tracks\Builds\DominoTracks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\George\Desktop\George's Folder\Unity Projects\Domino Tracks\Builds\DominoTracks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\George\Desktop\George's Folder\Unity Projects\Domino Tracks\Builds\DominoTracks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.338 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\George\Desktop\George's Folder\Unity Projects\Domino Tracks\Builds\DominoTracks_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\George\Desktop\George's Folder\Unity Projects\Domino Tracks\Builds\DominoTracks_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2bc4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.798722 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 594.
+Total: 1.187322 ms (FindLiveObjects: 0.116166 ms CreateObjectMapping: 0.157221 ms MarkObjects: 0.880811 ms  DeleteObjects: 0.031724 ms)
+
